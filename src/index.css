@@ -8,11 +8,8 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Roboto',
     monospace;
 }
-
-.bg-gradient {
- background-image: linear-gradient(to bottom, #051937, #00466e, #007aa0, #00b2c7, #12ebe1);
-}
+ 
  
